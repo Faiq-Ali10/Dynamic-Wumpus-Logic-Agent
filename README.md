@@ -2,9 +2,8 @@
 
 A **Knowledge-Based AI Agent** that navigates a Wumpus World-style grid using **Propositional Logic** and **Resolution Refutation** to deduce safe cells in real time.
 
-> **Live Demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+> **Live Demo:** [your-vercel-url.vercel.app](https://dynamic-wumpus-logic-agent.vercel.app/)  
 > **GitHub:** [github.com/yourusername/wumpus-logic-agent](https://github.com/yourusername/wumpus-logic-agent)  
-> **LinkedIn Post:** [linkedin.com/posts/your-post-id](https://linkedin.com/posts/your-post-id)
 
 ---
 
